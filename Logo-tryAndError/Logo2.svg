@@ -15,7 +15,10 @@
    id="svg3887"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="Logo2.svg">
+   sodipodi:docname="Logo2.svg"
+   inkscape:export-filename="/Users/Pet0r/Documents/Projects/Gameeso/Private Pre-PRo/Logo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs3889">
     <linearGradient
@@ -76,9 +79,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="256"
-     inkscape:cx="62.609755"
-     inkscape:cy="105.20482"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="201.96169"
+     inkscape:cy="94.043455"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
@@ -111,13 +114,13 @@
      transform="translate(-151.33761,-93.333333)">
     <path
        style="fill:url(#linearGradient4428);fill-opacity:1;stroke:none"
-       d="M 239.58333,199.71875 C 306.66939,240.2092 338.31315,143.68784 375,93.333333 366.13124,95.731679 357.9872,91.969961 347.91667,104.58333 329.92874,134.16984 311.63072,163.67475 281.25,190"
+       d="M 227.62881,193.99671 C 294.71487,234.48716 338.31315,143.57847 375,93.223958 c -8.86876,2.398346 -17.0128,-1.363372 -27.08333,11.250002 -17.98793,29.58651 -36.28595,59.09142 -66.66667,85.41667"
        id="path3912"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
        style="fill:url(#linearGradient4430);fill-opacity:1;stroke:none"
-       d="m 215.53461,146.55121 c -1.44119,0.36011 -2.77304,0.97442 -4.15778,1.46625 l -10.47328,4.98048 -6.66666,8.125 c 3.08528,6.90587 7.06324,10.77879 10.07577,14.09789 4.31301,4.75191 7.95932,7.93129 15.32268,13.53455 21.00386,15.98321 45.85094,21.17273 63.79878,-0.67224 -36.69046,-5.99424 -57.16671,-12.07156 -67.89951,-41.53193 z"
+       d="m 215.53461,146.55121 c -1.44119,0.36011 -2.77304,0.97442 -4.15778,1.46625 l -10.47328,4.98048 -6.66666,8.125 c 3.08528,6.90587 7.06324,10.77879 10.07577,14.09789 4.31301,4.75191 7.94134,7.955 15.32268,13.53455 20.96833,15.84996 44.47323,16.92331 63.79878,-0.67224 -36.69046,-5.99424 -57.16671,-12.07156 -67.89951,-41.53193 z"
        id="path3910"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccsscc" />
